@@ -15,7 +15,7 @@ public class SchoolDatabase {
 
     // Database credentials
     static final String USER = "root";
-    static final String PASS = "Masthani@143";
+    static final String PASS = "Jani@143";
 
     public static void main(String[] args) {
         Connection conn = null;
